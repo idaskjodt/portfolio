@@ -1,0 +1,17 @@
+/*
+ Theme Name:   astra-child-theme
+ Theme URI:    http://idaskjodt.dk/portfolio
+ Description:  Child theme based on parent theme Astra
+ Author:       Ida Skjødt Olesen
+ Author URI:   http://idaskjodt.dk/portfolio
+ Template:     astra-child-theme
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachildtheme
+*/
+
+body {
+     background-color: blue !important;
+}
